@@ -75,6 +75,12 @@
     scroll-behavior: smooth;
   }
 }
+.responsive {
+  max-width: 100%;
+  height: auto;
+  position: center;
+    
+}
 
 body {
   margin: 0;
@@ -1956,6 +1962,10 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
+
+
+}
+
 .table {
   --bs-table-bg: transparent;
   --bs-table-accent-bg: transparent;
